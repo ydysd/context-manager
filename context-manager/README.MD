@@ -26,3 +26,8 @@ __exit__(self, exc_type, exc_val, exc_tb)
 ---
 
 [PEP 343](https://www.python.org/dev/peps/pep-0343/)
+
+
+# contextlib
+
+1. contextlib.contextmanager
